@@ -1,0 +1,2 @@
+
+print(StringUtils.greet("Kenth"))
